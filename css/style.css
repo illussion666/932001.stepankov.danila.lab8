@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+p{
+    margin-left: 10px;
+}
+
+ul{
+    list-style: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.RowDiv{
+    font-size: 0;
+}
+
